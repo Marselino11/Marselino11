@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marselino11
-- 👀 I’m interested in Programming on Python, Assembly, C/C++, PCB Design, HMI Design
-- 🌱 I’m currently learning FPGA Programming and FPGA Arty for my Final Project
+- 👀 I’m interested in Programming on Python, Assembly, C/C++, PCB Design and HMI Design
+- 🌱 I’m currently learning Python, HTML Programming and FPGA Arty for my Final Project
 - 💞️ I’m looking to collaborate on Anyone
 - 📫 How to reach me by send email on yudhiiajalah@gmail.com
 
